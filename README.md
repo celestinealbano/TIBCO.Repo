@@ -1,3 +1,3 @@
-# TIBCO.Repo
-TIBCO codes
+# Informatica.Repo
+Informatica codes
 1234567
